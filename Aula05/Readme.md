@@ -1,0 +1,1 @@
+Aula destinada a funções matemáticas importantes e não-básicas. Possue as equações e um exemplo.

@@ -1,0 +1,1 @@
+Aula destinada a apresentação dos métodos Post e Get, suas diferenças e utilidades dentro do php.
